@@ -1,1 +1,1 @@
-# delta-learning_total_energy
+# $R^2\text{D}^2$
