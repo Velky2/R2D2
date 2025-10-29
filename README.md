@@ -8,7 +8,7 @@
 - [Sumário](#🔎-sumário)
 - [Descrição](#-descrição)
 - [Como rodar?](#como-rodar-em-seu-pc)
-- [Professor](#-professor)
+- [Professor](#-professor-responsavel)
 - [Colaboradores](#-colaboradores)
 
 <!------------------------------------>
@@ -36,7 +36,7 @@
 ### 🌐 Rodando na Web
 ------------
 
-## 👨‍🏫 Professor responsável
+## 👨‍🏫 Professor responsavel
 
 <table>
   <tr>
