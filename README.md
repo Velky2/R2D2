@@ -38,8 +38,6 @@
 
 ## 👨‍🏫 Professor responsável
 
-> O trabalho realizado não seria possível sem a ajuda desses professores da disciplina Práticas em Ciências de Dados
-
 <table>
   <tr>
     <td align="center">
@@ -61,14 +59,14 @@
   <tr>
     <td align="center">
       <a href="#" title="Edélio G. M. de Jesus">
-        <img src="https://avatars.githubusercontent.com/u/208799375?v=4" width="100px;" alt="Foto do Edélio do Github"/><br>
+        <img src="https://avatars.githubusercontent.com/u/208799633?v=4" width="100px;" alt="Foto do Edélio do Github"/><br>
           <a href="https://github.com/EdelioGabriel"><b>Edélio G. M. de Jesus<b></a>
       </a>
     </td>
     <td align="center">
       <a href="#" title="Mateus de Jesus Mendes">
-        <img src="https://avatars.githubusercontent.com/u/149116352?v=4" width="100px;" alt="Foto do Mateus do Github"/><br>
-          <a href="[https://github.com/LucasCandinho](https://github.com/mateusjmd)"><b>Mateus de Jesus Mendes<b></a>
+        <img src="https://avatars.githubusercontent.com/u/210257411?v=4" width="100px;" alt="Foto do Mateus do Github"/><br>
+          <a href="https://github.com/mateusjmd"><b>Mateus de Jesus Mendes<b></a>
       </a>
     </td>
     <td align="center">
