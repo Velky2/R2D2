@@ -8,7 +8,7 @@
 - [Sumário](#🔎-sumário)
 - [Descrição](#-descrição)
 - [Como rodar?](#como-rodar-em-seu-pc)
-- [Professor](#-professor-responsável)
+- [Professor](#-professor)
 - [Colaboradores](#-colaboradores)
 
 <!------------------------------------>
